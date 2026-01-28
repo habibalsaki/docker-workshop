@@ -1,10 +1,14 @@
 # Byte-compiled / optimized / DLL files
+*.parquet
+
 __pycache__/
 *.py[codz]
 *$py.class
 
 # C extensions
 *.so
+
+ny_taxi_postgres_data
 
 # Distribution / packaging
 .Python
